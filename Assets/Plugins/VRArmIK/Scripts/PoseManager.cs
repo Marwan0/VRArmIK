@@ -32,7 +32,7 @@ namespace VRArmIK
 
 		void Awake()
 		{
-			loadPlayerSize();
+			//loadPlayerSize();
 		}
 
 		void Start()
